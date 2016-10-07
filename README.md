@@ -35,6 +35,14 @@ Initializes a new TapWarp instance with the default handler.
 
 It is strongly recommended that you use a separate folder for all images that tapwarp-php-lib receives.
 
+## Online Demonstration
+
+### Tap Warp Demo
+This website is often used to demonstrate the newest functionalities.  But very simple.
+
+### FREEPHOTO @ QAON
+This is the young free photo sharing website, specialized to Tap Warp.  It has no upload form, the only way to upload photos is to use the Tap Warp app.
+
 ## Installation
 Just
 ```
