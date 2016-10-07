@@ -40,8 +40,12 @@ It is strongly recommended that you use a separate folder for all images that ta
 ### Tap Warp Demo
 This website is often used to demonstrate the newest functionalities.  But very simple.
 
+[http://twdemo.qaon.net](http://twdemo.qaon.net)
+
 ### FREEPHOTO @ QAON
 This is the young free photo sharing website, specialized to Tap Warp.  It has no upload form, the only way to upload photos is to use the Tap Warp app.
+
+[http://freephoto.qaon.net](http://freephoto.qaon.net)
 
 ## Installation
 Just
