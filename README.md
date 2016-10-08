@@ -65,7 +65,7 @@ QRcode::png($jsontext);
 
 ### Explanation
 
-In the above JSON code, `authKey` and `targetUrl` are required, they provides authentication information and the URL to which image data are sent, respectively.
+In the above JSON code, `authKey` and `targetUrl` are required, they provide authentication information and the URL to which image data are sent, respectively.
 
 The `authKey` is a 64~128 byte ascii text consists of alphanumeric characters only.  It is often randomly generated, so that a correct `authKey` is very very difficult to be guessed.
 
